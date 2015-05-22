@@ -1,0 +1,3 @@
+# Module fareapp
+# RPC service class, partial path of RPC policy file
+fareApp.client.GreetingService, 4C6164A64702CB662399093A323CF83F.gwt.rpc
